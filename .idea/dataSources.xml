@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ReactorData@localhost" uuid="b8467f95-f81c-44c5-ab2f-07b7ab6ff09a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/ReactorData</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="b2u2bvuvyxjj1rmlp22u@b2u2bvuvyxjj1rmlp22u-postgresql.services.clever-cloud.com" uuid="c22eb77f-3ded-489c-bc6b-5ab4bc4da787">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://b2u2bvuvyxjj1rmlp22u-postgresql.services.clever-cloud.com:5432/b2u2bvuvyxjj1rmlp22u</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
